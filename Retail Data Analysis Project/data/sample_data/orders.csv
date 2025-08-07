@@ -1,0 +1,501 @@
+order_id,customer_id,order_date,total_amount,order_status,shipping_address,shipping_city,shipping_state,shipping_zip_code
+1,98,2025-03-08 08:44:02,786.31,Completed,Address 97,Phoenix,NY,78613
+2,48,2025-08-01 08:44:02,320.46,Pending,Address 10,Houston,AZ,95573
+3,2,2025-02-26 08:44:02,786.68,Pending,Address 94,Houston,TX,95107
+4,9,2025-03-25 08:44:02,852.52,Cancelled,Address 56,Los Angeles,TX,63400
+5,92,2025-04-02 08:44:02,130.16,Pending,Address 24,Los Angeles,IL,79225
+6,76,2024-09-24 08:44:02,557.75,Pending,Address 78,New York,AZ,42395
+7,6,2025-06-27 08:44:02,863.28,Cancelled,Address 1,Houston,TX,78858
+8,71,2025-04-10 08:44:02,52.8,Pending,Address 83,Phoenix,IL,18818
+9,79,2024-12-18 08:44:02,823.25,Completed,Address 62,Houston,NY,45573
+10,65,2025-02-13 08:44:02,185.04,Cancelled,Address 80,Chicago,CA,38906
+11,95,2025-04-03 08:44:02,267.66,Completed,Address 53,Phoenix,TX,63654
+12,30,2024-10-17 08:44:02,79.79,Completed,Address 15,Los Angeles,NY,95944
+13,19,2024-09-17 08:44:02,213.44,Cancelled,Address 3,Los Angeles,TX,65108
+14,10,2024-09-17 08:44:02,557.44,Pending,Address 84,Phoenix,TX,10319
+15,10,2025-04-15 08:44:02,232.31,Cancelled,Address 71,Houston,IL,35344
+16,96,2025-01-01 08:44:02,706.35,Completed,Address 90,Chicago,CA,43804
+17,36,2025-02-25 08:44:02,162.88,Pending,Address 55,New York,CA,41643
+18,77,2025-07-14 08:44:02,701.07,Cancelled,Address 6,Phoenix,IL,66751
+19,64,2025-07-04 08:44:02,274.63,Cancelled,Address 7,Houston,AZ,91217
+20,71,2024-12-11 08:44:02,801.67,Completed,Address 38,Chicago,IL,34479
+21,36,2025-01-14 08:44:02,470.6,Cancelled,Address 49,New York,IL,37169
+22,32,2025-06-06 08:44:02,243.48,Pending,Address 6,New York,AZ,20492
+23,51,2025-07-31 08:44:02,527.08,Completed,Address 50,New York,IL,36050
+24,11,2024-10-06 08:44:02,692.25,Completed,Address 46,Phoenix,IL,11139
+25,50,2025-04-30 08:44:02,314.32,Pending,Address 82,Los Angeles,AZ,66666
+26,68,2025-04-16 08:44:02,158.82,Cancelled,Address 92,Houston,CA,96790
+27,36,2025-05-18 08:44:02,253.79,Cancelled,Address 12,New York,IL,35978
+28,3,2025-05-08 08:44:02,477.03,Completed,Address 4,Phoenix,NY,10374
+29,16,2024-12-31 08:44:02,421.36,Pending,Address 19,Houston,NY,54071
+30,90,2024-11-13 08:44:02,744.63,Cancelled,Address 31,Los Angeles,NY,66654
+31,94,2025-02-10 08:44:02,594.99,Completed,Address 35,Houston,NY,85112
+32,97,2025-07-14 08:44:02,187.84,Cancelled,Address 14,New York,TX,58912
+33,53,2025-05-28 08:44:02,21.03,Cancelled,Address 24,Phoenix,TX,51116
+34,31,2025-06-14 08:44:02,585.7,Completed,Address 7,Phoenix,IL,75820
+35,56,2024-08-07 08:44:02,478.03,Pending,Address 3,Los Angeles,AZ,15337
+36,84,2025-06-13 08:44:02,497.36,Cancelled,Address 16,Phoenix,TX,39625
+37,29,2025-06-30 08:44:02,843.02,Completed,Address 77,Phoenix,AZ,17145
+38,32,2024-08-20 08:44:02,212.87,Cancelled,Address 60,Chicago,CA,56025
+39,52,2025-07-19 08:44:02,428.95,Completed,Address 52,Chicago,AZ,15847
+40,60,2025-01-09 08:44:02,768.4,Pending,Address 5,Los Angeles,IL,61074
+41,2,2024-09-12 08:44:02,330.77,Completed,Address 77,Los Angeles,TX,91511
+42,52,2024-10-11 08:44:02,426.52,Completed,Address 70,New York,IL,32736
+43,83,2024-09-06 08:44:02,982.07,Completed,Address 47,Los Angeles,CA,58952
+44,13,2024-11-13 08:44:02,940.04,Cancelled,Address 59,New York,CA,22699
+45,33,2024-12-28 08:44:02,550.51,Completed,Address 76,Los Angeles,NY,10857
+46,59,2025-05-06 08:44:02,631.76,Completed,Address 25,Phoenix,IL,98357
+47,89,2025-03-29 08:44:02,215.24,Cancelled,Address 88,Los Angeles,AZ,27114
+48,60,2025-01-28 08:44:02,359.33,Completed,Address 96,Phoenix,NY,94871
+49,75,2024-08-14 08:44:02,129.99,Pending,Address 24,Chicago,NY,16512
+50,44,2025-07-08 08:44:02,312.47,Completed,Address 38,Houston,TX,45177
+51,74,2024-09-23 08:44:02,216.34,Pending,Address 30,Phoenix,NY,59987
+52,90,2025-01-06 08:44:02,507.52,Cancelled,Address 63,Phoenix,IL,82222
+53,52,2025-01-24 08:44:02,103.05,Completed,Address 15,Los Angeles,CA,72244
+54,46,2025-07-18 08:44:02,273.14,Cancelled,Address 62,Phoenix,TX,42172
+55,32,2024-08-29 08:44:02,346.88,Completed,Address 37,Phoenix,AZ,72765
+56,12,2025-03-22 08:44:02,555.44,Cancelled,Address 12,Los Angeles,IL,13790
+57,87,2025-05-04 08:44:02,654.94,Cancelled,Address 59,Houston,NY,20412
+58,58,2025-03-06 08:44:02,185.47,Pending,Address 82,Los Angeles,CA,70814
+59,84,2024-11-03 08:44:02,494.5,Completed,Address 25,Houston,CA,51942
+60,38,2024-09-19 08:44:02,321.89,Pending,Address 37,Phoenix,AZ,54672
+61,7,2025-04-30 08:44:02,253.84,Cancelled,Address 19,Phoenix,AZ,38822
+62,11,2025-07-30 08:44:02,103.77,Cancelled,Address 18,New York,TX,30332
+63,33,2025-04-15 08:44:02,480.5,Cancelled,Address 59,Los Angeles,NY,71673
+64,11,2025-06-25 08:44:02,38.5,Completed,Address 13,Los Angeles,NY,79773
+65,38,2024-11-05 08:44:02,23.41,Pending,Address 63,Phoenix,IL,81861
+66,7,2025-07-13 08:44:02,272.8,Cancelled,Address 24,Phoenix,AZ,35865
+67,29,2024-11-27 08:44:02,481.02,Pending,Address 17,Los Angeles,IL,67915
+68,22,2025-03-29 08:44:02,610.16,Pending,Address 24,Phoenix,CA,79471
+69,85,2024-08-18 08:44:02,404.11,Cancelled,Address 36,Phoenix,CA,33718
+70,95,2025-06-24 08:44:02,397.56,Cancelled,Address 39,Los Angeles,CA,36320
+71,91,2024-09-05 08:44:02,696.72,Completed,Address 41,New York,TX,10784
+72,74,2024-12-26 08:44:02,48.03,Completed,Address 27,New York,CA,19790
+73,49,2025-07-26 08:44:02,226.01,Completed,Address 97,Phoenix,IL,58818
+74,35,2025-02-18 08:44:02,291.7,Pending,Address 24,Houston,NY,38915
+75,14,2025-06-14 08:44:02,572.64,Pending,Address 21,New York,CA,62965
+76,29,2025-06-08 08:44:02,544.26,Cancelled,Address 54,Chicago,NY,53464
+77,3,2025-05-24 08:44:02,805.72,Pending,Address 80,Houston,AZ,63686
+78,44,2025-02-18 08:44:02,118.0,Completed,Address 41,Los Angeles,TX,91225
+79,62,2025-03-08 08:44:02,236.59,Completed,Address 64,Phoenix,AZ,82472
+80,18,2025-04-19 08:44:02,233.91,Cancelled,Address 1,Chicago,IL,17921
+81,2,2025-02-11 08:44:02,17.93,Pending,Address 84,Chicago,IL,44055
+82,71,2024-09-22 08:44:02,959.28,Pending,Address 82,New York,AZ,15094
+83,7,2025-03-08 08:44:02,445.39,Completed,Address 7,Los Angeles,IL,51151
+84,82,2024-11-16 08:44:02,364.56,Cancelled,Address 16,Los Angeles,NY,26653
+85,53,2024-09-12 08:44:02,748.67,Completed,Address 30,Phoenix,IL,33128
+86,48,2025-03-23 08:44:02,390.34,Pending,Address 66,Phoenix,IL,16922
+87,27,2025-05-05 08:44:02,735.49,Cancelled,Address 8,Los Angeles,CA,57397
+88,90,2025-01-07 08:44:02,989.07,Completed,Address 54,Phoenix,AZ,67298
+89,63,2024-09-26 08:44:02,593.47,Cancelled,Address 36,Houston,IL,18595
+90,64,2025-03-28 08:44:02,245.43,Pending,Address 75,Los Angeles,NY,21237
+91,92,2024-08-10 08:44:02,578.83,Cancelled,Address 8,New York,AZ,88965
+92,89,2024-08-27 08:44:02,908.25,Pending,Address 78,Chicago,IL,51306
+93,27,2024-08-31 08:44:02,987.6,Completed,Address 84,Los Angeles,CA,78877
+94,10,2025-06-10 08:44:02,644.0,Pending,Address 22,Los Angeles,IL,25789
+95,97,2024-11-14 08:44:02,323.4,Pending,Address 67,Los Angeles,NY,94302
+96,12,2025-05-30 08:44:02,257.34,Cancelled,Address 33,Chicago,CA,63299
+97,47,2025-06-09 08:44:02,145.39,Cancelled,Address 70,Phoenix,IL,86869
+98,9,2025-01-12 08:44:02,124.96,Completed,Address 20,Chicago,NY,10350
+99,96,2024-09-30 08:44:02,852.04,Cancelled,Address 46,Houston,TX,26057
+100,35,2025-02-25 08:44:02,69.81,Pending,Address 28,Los Angeles,IL,36318
+101,6,2025-02-26 08:44:02,316.69,Completed,Address 87,Phoenix,IL,21277
+102,82,2025-08-01 08:44:02,622.9,Completed,Address 67,Chicago,IL,17194
+103,86,2024-11-28 08:44:02,616.7,Cancelled,Address 35,Los Angeles,AZ,84702
+104,64,2025-05-14 08:44:02,183.96,Completed,Address 26,New York,CA,21457
+105,81,2025-05-04 08:44:02,133.14,Pending,Address 32,New York,TX,35518
+106,82,2025-06-12 08:44:02,103.18,Cancelled,Address 13,Chicago,AZ,80687
+107,34,2024-12-17 08:44:02,261.37,Pending,Address 83,Chicago,IL,87435
+108,100,2024-10-23 08:44:02,823.79,Completed,Address 14,Houston,AZ,15403
+109,83,2024-11-17 08:44:02,207.67,Cancelled,Address 50,New York,IL,35736
+110,51,2025-06-02 08:44:02,957.66,Cancelled,Address 28,Houston,AZ,94459
+111,43,2025-05-27 08:44:02,952.7,Cancelled,Address 29,Chicago,IL,74253
+112,11,2025-05-03 08:44:02,914.97,Pending,Address 17,Phoenix,AZ,84059
+113,57,2025-06-12 08:44:02,393.53,Pending,Address 33,Los Angeles,NY,15574
+114,71,2024-12-27 08:44:02,849.7,Cancelled,Address 4,New York,CA,99754
+115,42,2025-06-24 08:44:02,568.64,Pending,Address 24,Phoenix,AZ,63811
+116,39,2024-08-13 08:44:02,436.11,Pending,Address 46,Los Angeles,TX,87019
+117,81,2024-11-18 08:44:02,85.62,Pending,Address 5,Phoenix,TX,53964
+118,56,2025-01-27 08:44:02,833.81,Pending,Address 22,New York,TX,15816
+119,34,2024-10-02 08:44:02,758.19,Pending,Address 48,Los Angeles,CA,96377
+120,2,2025-02-19 08:44:02,790.35,Cancelled,Address 96,Los Angeles,CA,84592
+121,9,2024-10-05 08:44:02,109.67,Cancelled,Address 51,Houston,IL,19247
+122,84,2024-11-22 08:44:02,784.43,Cancelled,Address 65,Chicago,NY,84747
+123,90,2025-06-19 08:44:02,769.24,Pending,Address 16,Chicago,CA,43751
+124,98,2025-04-25 08:44:02,639.4,Cancelled,Address 48,Phoenix,CA,95100
+125,99,2025-04-12 08:44:02,259.67,Pending,Address 89,Los Angeles,CA,37546
+126,1,2024-08-23 08:44:02,392.52,Completed,Address 39,Phoenix,AZ,83734
+127,21,2025-04-22 08:44:02,44.96,Completed,Address 15,New York,AZ,13506
+128,38,2025-03-26 08:44:02,326.43,Pending,Address 3,Houston,NY,66239
+129,2,2025-01-18 08:44:02,374.07,Pending,Address 1,Los Angeles,IL,43894
+130,1,2025-05-08 08:44:02,973.69,Completed,Address 68,New York,AZ,14097
+131,36,2024-09-11 08:44:02,111.12,Completed,Address 57,Houston,IL,85189
+132,55,2025-01-06 08:44:02,718.49,Pending,Address 72,New York,IL,40694
+133,34,2024-09-24 08:44:02,418.83,Pending,Address 49,Phoenix,NY,77887
+134,62,2024-12-03 08:44:02,54.82,Cancelled,Address 77,Los Angeles,CA,33567
+135,91,2024-08-19 08:44:02,508.06,Completed,Address 11,Houston,NY,47651
+136,38,2024-12-31 08:44:02,162.31,Pending,Address 41,Houston,CA,44290
+137,74,2024-10-10 08:44:02,97.06,Completed,Address 76,Phoenix,TX,98566
+138,30,2025-03-28 08:44:02,686.87,Cancelled,Address 58,Houston,CA,22070
+139,81,2024-12-31 08:44:02,940.95,Completed,Address 52,Phoenix,TX,68183
+140,98,2024-09-02 08:44:02,446.8,Completed,Address 37,Chicago,IL,55085
+141,14,2024-08-15 08:44:02,504.37,Cancelled,Address 70,New York,CA,79527
+142,20,2024-11-13 08:44:02,757.39,Pending,Address 57,Houston,TX,80768
+143,65,2025-03-13 08:44:02,304.27,Completed,Address 13,Chicago,AZ,89271
+144,62,2025-07-23 08:44:02,167.37,Pending,Address 13,Phoenix,AZ,56769
+145,55,2025-03-10 08:44:02,267.46,Pending,Address 50,Los Angeles,NY,49781
+146,4,2025-07-26 08:44:02,939.49,Cancelled,Address 52,Phoenix,NY,49608
+147,11,2025-03-07 08:44:02,801.78,Pending,Address 1,Houston,AZ,53075
+148,57,2025-02-14 08:44:02,541.03,Completed,Address 25,Phoenix,AZ,86712
+149,55,2024-08-23 08:44:02,66.48,Completed,Address 42,Los Angeles,AZ,29723
+150,11,2024-11-01 08:44:02,371.16,Completed,Address 69,Phoenix,IL,88224
+151,22,2025-05-13 08:44:02,835.83,Pending,Address 86,Phoenix,CA,37376
+152,69,2025-03-25 08:44:02,923.87,Cancelled,Address 9,Phoenix,IL,90732
+153,73,2025-06-14 08:44:02,562.93,Pending,Address 16,New York,AZ,68624
+154,14,2025-07-31 08:44:02,158.07,Completed,Address 59,Phoenix,TX,72670
+155,13,2024-10-30 08:44:02,814.58,Cancelled,Address 5,Phoenix,IL,68580
+156,63,2025-03-16 08:44:02,907.97,Cancelled,Address 93,Los Angeles,AZ,62375
+157,33,2025-02-01 08:44:02,982.0,Completed,Address 70,Phoenix,TX,87129
+158,56,2024-11-08 08:44:02,324.99,Cancelled,Address 90,New York,AZ,91863
+159,22,2024-08-13 08:44:02,655.28,Cancelled,Address 23,Los Angeles,AZ,68855
+160,59,2025-06-29 08:44:02,105.03,Pending,Address 44,Chicago,IL,43974
+161,99,2025-06-15 08:44:02,470.89,Pending,Address 3,Houston,NY,16309
+162,77,2025-01-28 08:44:02,899.02,Cancelled,Address 14,Phoenix,AZ,29274
+163,48,2024-09-16 08:44:02,62.54,Cancelled,Address 31,New York,AZ,25780
+164,21,2025-08-01 08:44:02,631.33,Cancelled,Address 5,New York,AZ,13052
+165,93,2025-02-23 08:44:02,354.81,Cancelled,Address 94,Phoenix,AZ,83620
+166,92,2024-09-22 08:44:02,821.83,Cancelled,Address 8,Houston,NY,30896
+167,4,2025-01-24 08:44:02,551.65,Completed,Address 64,Houston,TX,18041
+168,91,2025-07-15 08:44:02,436.12,Pending,Address 88,Los Angeles,NY,96809
+169,28,2025-02-15 08:44:02,292.23,Cancelled,Address 34,Chicago,TX,41576
+170,98,2025-07-13 08:44:02,416.31,Cancelled,Address 1,Los Angeles,NY,98557
+171,62,2025-06-20 08:44:02,957.35,Cancelled,Address 84,Houston,TX,34856
+172,100,2024-10-21 08:44:02,467.56,Completed,Address 89,Houston,IL,76614
+173,5,2025-01-29 08:44:02,123.66,Cancelled,Address 31,Chicago,AZ,32689
+174,40,2024-09-11 08:44:02,133.89,Cancelled,Address 20,Phoenix,IL,68232
+175,4,2025-02-11 08:44:02,478.89,Pending,Address 87,New York,NY,99923
+176,6,2024-12-23 08:44:02,859.53,Pending,Address 43,Chicago,TX,12052
+177,57,2025-01-06 08:44:02,128.2,Completed,Address 11,Houston,TX,36354
+178,19,2025-07-18 08:44:02,72.72,Cancelled,Address 62,Houston,AZ,63505
+179,7,2024-09-07 08:44:02,408.28,Pending,Address 23,New York,AZ,28556
+180,8,2025-02-11 08:44:02,492.49,Cancelled,Address 66,Houston,CA,40208
+181,69,2025-03-21 08:44:02,517.43,Completed,Address 63,Los Angeles,NY,64630
+182,13,2025-04-26 08:44:02,386.73,Cancelled,Address 9,Chicago,TX,90214
+183,21,2025-01-05 08:44:02,365.83,Cancelled,Address 3,Chicago,NY,42141
+184,15,2025-05-23 08:44:02,295.22,Pending,Address 33,Los Angeles,CA,63179
+185,41,2025-07-05 08:44:02,235.55,Pending,Address 38,Phoenix,NY,34508
+186,10,2025-08-02 08:44:02,885.51,Completed,Address 64,Los Angeles,TX,68507
+187,100,2025-06-03 08:44:02,822.42,Pending,Address 99,Phoenix,IL,80504
+188,12,2024-11-19 08:44:02,252.14,Pending,Address 52,New York,CA,68869
+189,76,2025-01-15 08:44:02,616.66,Completed,Address 77,Chicago,TX,54011
+190,82,2025-05-05 08:44:02,77.61,Cancelled,Address 90,New York,TX,89394
+191,61,2025-03-21 08:44:02,517.52,Cancelled,Address 15,Houston,NY,48556
+192,4,2024-10-20 08:44:02,838.67,Cancelled,Address 8,Phoenix,CA,95367
+193,34,2024-08-24 08:44:02,719.72,Cancelled,Address 29,Chicago,NY,22852
+194,52,2024-11-22 08:44:02,477.17,Cancelled,Address 44,New York,TX,57625
+195,1,2024-11-01 08:44:02,352.26,Completed,Address 63,Chicago,IL,62922
+196,11,2025-04-05 08:44:02,291.69,Cancelled,Address 33,Los Angeles,CA,41778
+197,92,2025-01-17 08:44:02,620.93,Completed,Address 27,Phoenix,TX,54066
+198,26,2024-11-05 08:44:02,626.41,Completed,Address 56,Phoenix,AZ,91693
+199,78,2024-10-08 08:44:02,237.05,Completed,Address 95,Los Angeles,CA,26872
+200,3,2025-02-07 08:44:02,209.93,Completed,Address 42,Houston,IL,13404
+201,61,2025-04-14 08:44:02,547.8,Completed,Address 97,Phoenix,NY,75316
+202,70,2024-10-01 08:44:02,214.18,Pending,Address 54,Houston,AZ,51767
+203,26,2024-08-15 08:44:02,324.4,Pending,Address 55,Chicago,IL,83200
+204,28,2025-02-20 08:44:02,859.39,Pending,Address 44,Chicago,CA,32842
+205,78,2025-02-27 08:44:02,495.22,Completed,Address 96,Los Angeles,IL,29766
+206,74,2025-08-02 08:44:02,76.79,Completed,Address 30,Chicago,NY,31330
+207,40,2025-04-17 08:44:02,419.28,Completed,Address 83,Phoenix,CA,94831
+208,31,2024-12-01 08:44:02,436.6,Cancelled,Address 16,Phoenix,CA,98136
+209,51,2025-03-17 08:44:02,281.56,Cancelled,Address 97,Chicago,CA,71336
+210,14,2024-08-31 08:44:02,53.82,Cancelled,Address 1,Houston,AZ,46974
+211,9,2025-01-17 08:44:02,26.44,Completed,Address 9,Los Angeles,TX,19708
+212,15,2024-09-20 08:44:02,889.95,Cancelled,Address 1,New York,IL,40345
+213,6,2024-10-20 08:44:02,473.04,Pending,Address 85,New York,TX,99988
+214,57,2025-05-03 08:44:02,481.2,Pending,Address 20,New York,NY,67645
+215,70,2025-05-12 08:44:02,262.43,Pending,Address 91,Houston,NY,24644
+216,29,2025-01-03 08:44:02,889.72,Completed,Address 42,New York,IL,74266
+217,67,2024-10-15 08:44:02,934.33,Completed,Address 41,Los Angeles,AZ,92136
+218,44,2025-07-02 08:44:02,167.06,Completed,Address 66,Houston,CA,40076
+219,8,2025-05-24 08:44:02,45.08,Completed,Address 97,Houston,NY,59202
+220,49,2025-04-25 08:44:02,536.96,Pending,Address 96,New York,AZ,57604
+221,85,2024-09-28 08:44:02,766.21,Completed,Address 56,Los Angeles,TX,72942
+222,67,2024-10-25 08:44:02,585.63,Pending,Address 19,Los Angeles,IL,15209
+223,99,2024-10-16 08:44:02,287.5,Pending,Address 29,Chicago,TX,17264
+224,96,2025-03-18 08:44:02,432.9,Completed,Address 5,Chicago,TX,98833
+225,62,2024-11-08 08:44:02,456.21,Completed,Address 59,Houston,TX,30659
+226,34,2024-09-24 08:44:02,389.13,Cancelled,Address 62,New York,CA,70638
+227,20,2025-07-23 08:44:02,240.9,Completed,Address 63,Chicago,TX,48896
+228,36,2025-02-28 08:44:02,558.91,Completed,Address 97,Los Angeles,CA,43175
+229,84,2025-06-21 08:44:02,615.98,Cancelled,Address 85,New York,IL,37194
+230,35,2024-12-27 08:44:02,805.17,Cancelled,Address 12,Chicago,CA,50424
+231,24,2025-04-11 08:44:02,140.05,Pending,Address 2,Los Angeles,CA,63992
+232,92,2025-08-05 08:44:02,479.17,Cancelled,Address 30,Los Angeles,CA,88207
+233,96,2025-01-10 08:44:02,414.68,Completed,Address 96,Houston,NY,50846
+234,17,2025-07-07 08:44:02,373.58,Completed,Address 12,Los Angeles,TX,92525
+235,90,2024-10-21 08:44:02,71.67,Cancelled,Address 57,Houston,CA,16483
+236,24,2024-11-25 08:44:02,682.04,Cancelled,Address 43,Chicago,CA,45914
+237,38,2025-04-07 08:44:02,292.35,Cancelled,Address 31,Los Angeles,IL,89147
+238,98,2024-08-15 08:44:02,785.72,Cancelled,Address 36,Chicago,TX,86317
+239,8,2025-04-06 08:44:02,269.16,Completed,Address 61,New York,TX,62576
+240,60,2025-01-27 08:44:02,446.63,Cancelled,Address 20,New York,NY,88038
+241,92,2025-01-25 08:44:02,132.86,Completed,Address 21,Houston,CA,34749
+242,6,2024-08-15 08:44:02,88.32,Pending,Address 58,Phoenix,CA,15909
+243,51,2025-03-03 08:44:02,597.16,Cancelled,Address 90,Houston,CA,42392
+244,74,2024-11-16 08:44:02,555.64,Pending,Address 56,Los Angeles,AZ,82948
+245,20,2024-12-13 08:44:02,529.45,Completed,Address 59,Chicago,AZ,76515
+246,75,2025-02-24 08:44:02,87.06,Completed,Address 13,Chicago,AZ,96513
+247,82,2025-02-09 08:44:02,741.82,Pending,Address 5,New York,CA,96807
+248,47,2025-01-26 08:44:02,563.68,Pending,Address 5,Los Angeles,TX,19442
+249,26,2025-06-22 08:44:02,20.54,Completed,Address 13,Chicago,AZ,74286
+250,96,2024-09-10 08:44:02,283.64,Cancelled,Address 76,Los Angeles,CA,64419
+251,76,2025-05-18 08:44:02,112.62,Cancelled,Address 99,Phoenix,IL,88802
+252,74,2024-09-27 08:44:02,804.89,Cancelled,Address 34,Houston,NY,86408
+253,88,2024-11-26 08:44:02,289.4,Pending,Address 76,Houston,TX,70154
+254,73,2024-08-26 08:44:02,591.46,Pending,Address 12,Los Angeles,TX,61775
+255,50,2025-06-16 08:44:02,185.06,Cancelled,Address 56,Chicago,IL,13484
+256,36,2025-06-18 08:44:02,40.43,Cancelled,Address 42,Los Angeles,TX,15316
+257,91,2025-08-01 08:44:02,873.85,Cancelled,Address 65,Houston,AZ,64864
+258,76,2024-09-11 08:44:02,525.89,Completed,Address 90,New York,TX,90085
+259,25,2025-06-29 08:44:02,499.18,Pending,Address 42,Houston,IL,68217
+260,54,2024-11-21 08:44:02,822.29,Pending,Address 60,Houston,CA,85482
+261,66,2024-12-24 08:44:02,912.52,Completed,Address 86,Houston,TX,12611
+262,22,2025-03-21 08:44:02,838.69,Cancelled,Address 77,Los Angeles,NY,40777
+263,94,2024-12-15 08:44:02,263.82,Completed,Address 31,Los Angeles,NY,43034
+264,95,2025-07-23 08:44:02,232.38,Pending,Address 82,Houston,IL,29067
+265,24,2025-03-27 08:44:02,734.83,Pending,Address 90,Phoenix,CA,68369
+266,31,2025-03-19 08:44:02,770.28,Completed,Address 14,Chicago,CA,82769
+267,30,2025-04-01 08:44:02,640.51,Cancelled,Address 38,Houston,NY,79753
+268,69,2025-07-12 08:44:02,193.32,Completed,Address 49,Phoenix,AZ,54591
+269,8,2025-01-16 08:44:02,433.93,Pending,Address 63,Chicago,TX,66818
+270,74,2024-09-02 08:44:02,508.31,Pending,Address 37,Los Angeles,CA,32651
+271,86,2025-05-11 08:44:02,457.59,Cancelled,Address 86,Houston,CA,63251
+272,73,2025-05-25 08:44:02,260.51,Pending,Address 94,New York,IL,48307
+273,41,2025-03-09 08:44:02,563.73,Cancelled,Address 98,Chicago,NY,24250
+274,6,2025-07-11 08:44:02,952.64,Pending,Address 74,Houston,IL,53625
+275,54,2025-04-16 08:44:02,220.34,Cancelled,Address 35,Los Angeles,CA,55070
+276,62,2025-02-19 08:44:02,609.06,Pending,Address 16,Phoenix,TX,91397
+277,2,2024-12-23 08:44:02,386.11,Completed,Address 43,Los Angeles,TX,57175
+278,20,2025-01-19 08:44:02,836.61,Pending,Address 80,Houston,CA,67982
+279,30,2024-12-18 08:44:02,237.91,Pending,Address 4,Phoenix,CA,96238
+280,47,2025-07-06 08:44:02,593.32,Completed,Address 25,Houston,TX,85569
+281,38,2024-09-24 08:44:02,826.78,Completed,Address 30,Phoenix,CA,22550
+282,22,2025-02-13 08:44:02,437.14,Completed,Address 77,New York,CA,89617
+283,50,2024-11-07 08:44:02,566.67,Pending,Address 9,Chicago,CA,56863
+284,25,2024-10-21 08:44:02,933.06,Cancelled,Address 68,Houston,IL,94112
+285,30,2024-08-07 08:44:02,195.57,Pending,Address 17,Chicago,TX,69252
+286,17,2024-12-31 08:44:02,545.0,Pending,Address 43,Houston,NY,19868
+287,90,2025-02-05 08:44:02,923.52,Completed,Address 28,New York,TX,25393
+288,9,2025-06-29 08:44:02,533.69,Pending,Address 8,Phoenix,NY,18282
+289,53,2025-02-04 08:44:02,291.78,Completed,Address 76,Chicago,NY,25552
+290,3,2025-02-28 08:44:02,512.17,Cancelled,Address 74,Los Angeles,AZ,67468
+291,86,2024-10-10 08:44:02,350.01,Cancelled,Address 25,New York,CA,84020
+292,58,2025-06-22 08:44:02,36.18,Cancelled,Address 81,New York,NY,13407
+293,9,2024-09-25 08:44:02,694.3,Cancelled,Address 3,New York,TX,33493
+294,14,2024-10-31 08:44:02,425.45,Pending,Address 29,Houston,IL,97760
+295,58,2025-03-31 08:44:02,334.18,Completed,Address 56,Houston,AZ,41927
+296,14,2025-03-12 08:44:02,12.39,Cancelled,Address 82,Phoenix,TX,49870
+297,37,2024-12-12 08:44:02,854.73,Completed,Address 64,New York,AZ,70527
+298,4,2024-10-01 08:44:02,311.2,Cancelled,Address 25,Chicago,NY,70376
+299,84,2025-02-18 08:44:02,144.07,Completed,Address 70,New York,NY,22460
+300,31,2025-06-29 08:44:02,600.04,Cancelled,Address 71,Phoenix,CA,20017
+301,98,2025-03-31 08:44:02,847.03,Completed,Address 55,Houston,NY,68260
+302,91,2024-10-17 08:44:02,298.08,Completed,Address 80,Houston,AZ,29239
+303,20,2025-06-14 08:44:02,435.61,Pending,Address 6,New York,NY,53767
+304,4,2024-12-23 08:44:02,71.43,Cancelled,Address 44,Houston,TX,83901
+305,31,2025-02-26 08:44:02,247.21,Cancelled,Address 99,New York,TX,31691
+306,36,2024-12-20 08:44:02,879.05,Cancelled,Address 44,Phoenix,AZ,59039
+307,13,2025-07-18 08:44:02,538.74,Completed,Address 80,Phoenix,NY,97970
+308,24,2025-03-02 08:44:02,912.46,Cancelled,Address 31,Phoenix,TX,17922
+309,57,2025-06-17 08:44:02,446.16,Completed,Address 99,Phoenix,CA,56509
+310,69,2025-06-01 08:44:02,937.61,Pending,Address 56,Phoenix,CA,38754
+311,43,2025-04-16 08:44:02,824.52,Cancelled,Address 92,Houston,NY,31575
+312,44,2024-11-09 08:44:02,399.33,Cancelled,Address 24,Houston,CA,18959
+313,24,2025-04-24 08:44:02,891.46,Pending,Address 64,Chicago,IL,35259
+314,96,2025-02-03 08:44:02,131.9,Completed,Address 62,Los Angeles,AZ,73683
+315,22,2025-05-23 08:44:02,953.81,Pending,Address 45,Los Angeles,NY,81254
+316,89,2025-01-07 08:44:02,29.33,Cancelled,Address 13,New York,AZ,85464
+317,6,2024-09-17 08:44:02,912.54,Cancelled,Address 40,Houston,TX,14613
+318,89,2024-10-31 08:44:02,931.34,Pending,Address 32,Houston,IL,62457
+319,6,2025-06-17 08:44:02,852.12,Completed,Address 83,Los Angeles,CA,70680
+320,25,2024-11-07 08:44:02,164.88,Pending,Address 46,Chicago,NY,22800
+321,91,2025-08-02 08:44:02,176.85,Cancelled,Address 46,New York,TX,61183
+322,41,2024-12-14 08:44:02,312.05,Cancelled,Address 14,Los Angeles,CA,18741
+323,16,2024-10-06 08:44:02,817.87,Cancelled,Address 72,Chicago,TX,26962
+324,13,2025-01-23 08:44:02,781.36,Cancelled,Address 91,New York,NY,82521
+325,82,2025-02-01 08:44:02,721.69,Completed,Address 25,Houston,AZ,74375
+326,10,2025-05-23 08:44:02,942.27,Cancelled,Address 11,Los Angeles,TX,34182
+327,66,2025-07-14 08:44:02,203.2,Completed,Address 21,Los Angeles,TX,73477
+328,58,2025-04-27 08:44:02,932.79,Pending,Address 3,New York,NY,60278
+329,61,2024-12-27 08:44:02,269.43,Completed,Address 3,Chicago,NY,55082
+330,95,2024-10-28 08:44:02,184.57,Completed,Address 6,Chicago,AZ,69835
+331,42,2025-03-11 08:44:02,818.31,Completed,Address 29,New York,CA,38464
+332,31,2024-10-27 08:44:02,374.35,Cancelled,Address 55,Phoenix,CA,35424
+333,15,2024-11-24 08:44:02,785.85,Completed,Address 75,Los Angeles,NY,89324
+334,83,2025-04-10 08:44:02,675.05,Pending,Address 42,Los Angeles,CA,39385
+335,27,2025-01-15 08:44:02,107.75,Pending,Address 56,Los Angeles,NY,46431
+336,9,2024-10-08 08:44:02,813.65,Completed,Address 20,New York,IL,40698
+337,33,2025-05-24 08:44:02,146.98,Completed,Address 67,Chicago,NY,34396
+338,95,2024-12-09 08:44:02,905.69,Completed,Address 40,Phoenix,CA,74999
+339,9,2024-09-17 08:44:02,726.89,Pending,Address 32,New York,NY,16618
+340,20,2025-03-24 08:44:02,450.59,Pending,Address 79,Los Angeles,NY,80137
+341,21,2025-02-17 08:44:02,210.28,Pending,Address 14,New York,TX,95468
+342,52,2024-12-27 08:44:02,661.91,Cancelled,Address 97,Houston,IL,20104
+343,12,2024-08-31 08:44:02,521.36,Pending,Address 32,Phoenix,NY,86509
+344,74,2024-08-09 08:44:02,23.75,Completed,Address 87,Phoenix,AZ,16410
+345,94,2025-01-25 08:44:02,253.17,Cancelled,Address 40,Houston,TX,41262
+346,82,2024-10-21 08:44:02,805.87,Pending,Address 77,Los Angeles,AZ,37738
+347,3,2024-11-27 08:44:02,176.9,Cancelled,Address 98,Chicago,NY,41434
+348,67,2024-08-14 08:44:02,585.72,Completed,Address 81,Los Angeles,AZ,55180
+349,65,2024-12-02 08:44:02,510.69,Completed,Address 93,Los Angeles,CA,89022
+350,75,2025-01-27 08:44:02,282.39,Pending,Address 24,New York,TX,39168
+351,14,2025-04-16 08:44:02,907.01,Pending,Address 94,Los Angeles,CA,69761
+352,89,2025-05-21 08:44:02,332.51,Cancelled,Address 72,Los Angeles,CA,29666
+353,39,2024-11-26 08:44:02,255.57,Completed,Address 84,New York,TX,40611
+354,60,2024-11-13 08:44:02,925.83,Completed,Address 3,Houston,NY,41476
+355,58,2025-05-10 08:44:02,311.45,Cancelled,Address 50,Phoenix,NY,49419
+356,24,2024-12-15 08:44:02,530.49,Completed,Address 55,Houston,CA,33807
+357,50,2024-08-29 08:44:02,870.04,Cancelled,Address 26,Phoenix,NY,80835
+358,36,2025-06-05 08:44:02,106.51,Cancelled,Address 5,New York,IL,69198
+359,8,2025-02-14 08:44:02,660.06,Cancelled,Address 64,Chicago,TX,41289
+360,69,2024-12-08 08:44:02,988.69,Pending,Address 64,Houston,TX,47315
+361,8,2025-07-15 08:44:02,726.08,Completed,Address 43,Phoenix,AZ,32142
+362,6,2025-04-07 08:44:02,633.89,Cancelled,Address 31,Houston,IL,84782
+363,52,2024-08-22 08:44:02,722.07,Completed,Address 83,Chicago,AZ,25925
+364,98,2025-06-17 08:44:02,647.09,Completed,Address 92,New York,NY,25731
+365,76,2025-05-14 08:44:02,288.86,Completed,Address 38,Phoenix,TX,95262
+366,82,2025-06-29 08:44:02,920.5,Pending,Address 50,New York,AZ,56208
+367,62,2025-06-07 08:44:02,361.04,Completed,Address 91,Phoenix,IL,60591
+368,56,2025-02-11 08:44:02,20.72,Completed,Address 21,Chicago,AZ,46742
+369,26,2024-11-22 08:44:02,264.28,Completed,Address 33,Phoenix,AZ,23292
+370,71,2024-11-18 08:44:02,172.79,Pending,Address 35,Los Angeles,AZ,47914
+371,98,2024-10-12 08:44:02,22.99,Completed,Address 62,Los Angeles,NY,23867
+372,23,2024-09-13 08:44:02,797.83,Pending,Address 25,Chicago,IL,54210
+373,76,2025-02-12 08:44:02,844.56,Cancelled,Address 8,Houston,AZ,92871
+374,99,2024-10-23 08:44:02,417.31,Completed,Address 81,Los Angeles,TX,12754
+375,100,2025-07-30 08:44:02,297.36,Completed,Address 9,Houston,AZ,30375
+376,84,2025-05-31 08:44:02,695.73,Completed,Address 47,Chicago,CA,59460
+377,17,2025-02-24 08:44:02,880.94,Cancelled,Address 54,Los Angeles,AZ,34294
+378,85,2024-11-04 08:44:02,853.23,Completed,Address 7,New York,AZ,71234
+379,78,2025-07-03 08:44:02,760.73,Pending,Address 73,Houston,NY,88692
+380,78,2024-08-17 08:44:02,636.6,Completed,Address 89,Los Angeles,IL,93579
+381,74,2025-01-22 08:44:02,939.62,Pending,Address 56,Chicago,CA,35932
+382,71,2025-03-09 08:44:02,531.85,Cancelled,Address 15,Phoenix,IL,83600
+383,25,2025-02-17 08:44:02,632.85,Pending,Address 63,Phoenix,AZ,67716
+384,40,2025-07-22 08:44:02,951.29,Cancelled,Address 30,New York,TX,53713
+385,34,2024-09-03 08:44:02,138.1,Pending,Address 58,Los Angeles,IL,89173
+386,56,2025-06-21 08:44:02,825.25,Cancelled,Address 93,Los Angeles,IL,32822
+387,37,2024-08-10 08:44:02,532.85,Pending,Address 23,New York,AZ,41124
+388,1,2025-01-05 08:44:02,219.0,Pending,Address 5,Chicago,IL,10562
+389,12,2025-05-28 08:44:02,606.48,Completed,Address 29,New York,NY,47035
+390,58,2024-12-06 08:44:02,35.93,Cancelled,Address 99,Chicago,IL,95807
+391,8,2024-09-19 08:44:02,588.1,Pending,Address 57,Chicago,TX,92182
+392,37,2024-10-15 08:44:02,565.8,Pending,Address 74,Los Angeles,AZ,39056
+393,95,2024-10-10 08:44:02,425.34,Pending,Address 29,Phoenix,NY,72152
+394,37,2025-03-31 08:44:02,286.21,Completed,Address 88,Chicago,IL,11327
+395,59,2025-03-01 08:44:02,132.0,Completed,Address 27,Phoenix,NY,16419
+396,59,2025-02-26 08:44:02,475.77,Completed,Address 25,Phoenix,AZ,60171
+397,1,2024-10-17 08:44:02,258.24,Completed,Address 61,Los Angeles,TX,75445
+398,38,2024-10-30 08:44:02,471.34,Completed,Address 31,Los Angeles,AZ,17150
+399,28,2024-10-03 08:44:02,629.97,Pending,Address 95,Houston,TX,85525
+400,51,2025-02-10 08:44:02,664.14,Cancelled,Address 18,Chicago,CA,60083
+401,95,2024-11-30 08:44:02,10.6,Completed,Address 35,Chicago,AZ,31833
+402,63,2025-07-05 08:44:02,99.78,Completed,Address 83,New York,AZ,90928
+403,96,2025-04-09 08:44:02,816.71,Pending,Address 63,Houston,CA,59907
+404,32,2024-11-03 08:44:02,121.59,Pending,Address 26,Phoenix,NY,56871
+405,92,2025-07-20 08:44:02,818.45,Cancelled,Address 17,Los Angeles,TX,45193
+406,62,2024-12-29 08:44:02,740.23,Pending,Address 4,Phoenix,IL,10078
+407,51,2025-04-14 08:44:02,516.69,Cancelled,Address 68,Houston,IL,92335
+408,24,2024-08-09 08:44:02,937.85,Completed,Address 58,Chicago,TX,43391
+409,77,2025-05-20 08:44:02,260.4,Completed,Address 60,Phoenix,CA,51568
+410,37,2025-06-08 08:44:02,316.96,Cancelled,Address 70,Houston,AZ,95912
+411,81,2025-03-16 08:44:02,944.32,Completed,Address 23,New York,CA,79709
+412,6,2025-03-22 08:44:02,248.4,Completed,Address 99,Chicago,IL,47948
+413,30,2025-01-21 08:44:02,466.29,Completed,Address 78,Phoenix,TX,20821
+414,87,2025-06-22 08:44:02,248.17,Cancelled,Address 41,New York,CA,21855
+415,75,2025-06-24 08:44:02,980.6,Pending,Address 68,Houston,TX,96427
+416,54,2025-05-15 08:44:02,895.78,Cancelled,Address 11,New York,TX,75726
+417,35,2024-09-23 08:44:02,655.56,Completed,Address 25,Chicago,NY,49241
+418,14,2024-10-22 08:44:02,459.58,Cancelled,Address 75,New York,IL,47996
+419,78,2025-07-04 08:44:02,691.01,Cancelled,Address 58,Los Angeles,AZ,96156
+420,91,2024-08-14 08:44:02,648.71,Completed,Address 1,Los Angeles,TX,16291
+421,65,2025-05-23 08:44:02,106.32,Pending,Address 15,Los Angeles,AZ,63917
+422,62,2025-04-09 08:44:02,453.89,Completed,Address 34,Houston,NY,67195
+423,87,2024-11-26 08:44:02,676.4,Pending,Address 88,Phoenix,CA,81119
+424,24,2025-04-14 08:44:02,359.94,Cancelled,Address 22,Phoenix,IL,61699
+425,16,2025-07-28 08:44:02,745.79,Completed,Address 20,Houston,NY,85127
+426,82,2024-11-06 08:44:02,253.3,Completed,Address 91,Chicago,NY,47765
+427,58,2024-12-29 08:44:02,596.54,Completed,Address 23,New York,TX,15298
+428,9,2025-07-29 08:44:02,444.01,Cancelled,Address 63,Phoenix,TX,99022
+429,34,2024-12-13 08:44:02,50.7,Pending,Address 23,Phoenix,CA,53215
+430,71,2024-11-14 08:44:02,849.18,Pending,Address 87,New York,AZ,91284
+431,42,2024-09-26 08:44:02,811.64,Completed,Address 23,Phoenix,TX,46268
+432,44,2025-06-19 08:44:02,712.01,Pending,Address 65,Houston,IL,84690
+433,86,2025-07-12 08:44:02,659.11,Cancelled,Address 70,Los Angeles,AZ,53698
+434,23,2025-02-28 08:44:02,32.36,Cancelled,Address 39,Houston,CA,47086
+435,90,2024-11-24 08:44:02,233.03,Cancelled,Address 54,Phoenix,NY,52648
+436,79,2024-09-24 08:44:02,47.82,Completed,Address 70,New York,TX,31324
+437,25,2025-06-23 08:44:02,487.0,Completed,Address 49,New York,TX,71142
+438,24,2025-06-24 08:44:02,959.22,Cancelled,Address 30,Chicago,AZ,99734
+439,45,2024-08-13 08:44:02,450.35,Pending,Address 68,Los Angeles,CA,99009
+440,7,2025-06-10 08:44:02,450.71,Completed,Address 40,Houston,TX,39232
+441,66,2025-04-08 08:44:02,394.91,Cancelled,Address 54,Los Angeles,AZ,72059
+442,44,2024-10-10 08:44:02,184.5,Completed,Address 45,Houston,NY,23711
+443,6,2024-12-08 08:44:02,986.1,Pending,Address 46,Los Angeles,AZ,19257
+444,15,2024-08-07 08:44:02,814.85,Completed,Address 70,Houston,IL,56769
+445,76,2024-09-25 08:44:02,103.23,Completed,Address 6,Los Angeles,IL,72815
+446,11,2024-09-22 08:44:02,332.07,Cancelled,Address 5,Phoenix,CA,88909
+447,59,2024-09-06 08:44:02,452.75,Completed,Address 26,New York,AZ,21791
+448,92,2025-05-15 08:44:02,398.09,Completed,Address 44,Phoenix,AZ,90844
+449,4,2025-03-04 08:44:02,705.7,Pending,Address 3,Chicago,NY,28633
+450,20,2025-08-05 08:44:02,559.95,Cancelled,Address 29,Los Angeles,CA,77964
+451,68,2025-02-17 08:44:02,605.4,Cancelled,Address 11,Chicago,TX,84179
+452,41,2025-04-22 08:44:02,683.96,Completed,Address 75,Chicago,TX,73222
+453,98,2024-10-27 08:44:02,25.24,Cancelled,Address 71,New York,NY,14685
+454,78,2025-01-01 08:44:02,216.2,Completed,Address 2,Phoenix,IL,50303
+455,22,2025-01-14 08:44:02,935.14,Cancelled,Address 20,New York,TX,79961
+456,84,2024-09-29 08:44:02,309.23,Pending,Address 95,Chicago,CA,87155
+457,16,2024-11-11 08:44:02,102.23,Pending,Address 64,New York,NY,15303
+458,46,2025-02-14 08:44:02,975.32,Completed,Address 100,New York,CA,70662
+459,61,2025-01-25 08:44:02,718.21,Pending,Address 73,Chicago,CA,41157
+460,4,2025-06-20 08:44:02,930.1,Completed,Address 93,New York,AZ,64846
+461,75,2025-03-11 08:44:02,283.4,Cancelled,Address 26,Chicago,TX,56140
+462,78,2025-07-01 08:44:02,945.93,Cancelled,Address 24,New York,TX,44541
+463,95,2024-09-19 08:44:02,14.91,Cancelled,Address 79,Chicago,CA,59301
+464,41,2024-12-24 08:44:02,911.67,Pending,Address 93,Los Angeles,AZ,52754
+465,46,2025-05-18 08:44:02,838.6,Cancelled,Address 51,Los Angeles,TX,90246
+466,23,2025-01-19 08:44:02,618.33,Pending,Address 87,Houston,TX,38060
+467,65,2025-02-26 08:44:02,712.71,Completed,Address 25,New York,NY,54016
+468,25,2024-09-06 08:44:02,650.21,Pending,Address 79,New York,TX,26708
+469,65,2025-07-12 08:44:02,349.09,Pending,Address 66,New York,TX,75055
+470,100,2025-01-18 08:44:02,312.96,Completed,Address 42,Houston,CA,25753
+471,96,2025-03-13 08:44:02,745.81,Pending,Address 18,Phoenix,IL,82254
+472,96,2024-12-08 08:44:02,519.11,Pending,Address 75,Chicago,CA,97546
+473,26,2025-05-06 08:44:02,425.4,Cancelled,Address 16,Phoenix,AZ,28958
+474,36,2025-01-06 08:44:02,528.58,Pending,Address 55,Chicago,NY,52962
+475,16,2024-09-03 08:44:02,974.57,Completed,Address 58,Los Angeles,CA,29991
+476,91,2025-04-14 08:44:02,996.11,Completed,Address 8,Phoenix,IL,37581
+477,16,2025-07-29 08:44:02,429.24,Completed,Address 72,Chicago,IL,24947
+478,72,2025-07-01 08:44:02,432.59,Cancelled,Address 81,Houston,TX,62388
+479,66,2025-07-03 08:44:02,39.66,Completed,Address 28,Phoenix,NY,89133
+480,35,2024-11-04 08:44:02,566.75,Pending,Address 64,Houston,NY,46077
+481,87,2024-08-07 08:44:02,65.81,Pending,Address 62,Los Angeles,IL,75806
+482,4,2024-08-13 08:44:02,376.99,Completed,Address 93,New York,TX,18057
+483,3,2025-07-10 08:44:02,189.04,Pending,Address 1,Phoenix,TX,79524
+484,68,2025-06-14 08:44:02,725.03,Pending,Address 92,Los Angeles,CA,21391
+485,52,2025-04-22 08:44:02,238.55,Pending,Address 79,Houston,CA,59531
+486,71,2024-09-10 08:44:02,496.33,Cancelled,Address 42,Chicago,CA,72574
+487,70,2025-07-15 08:44:02,432.56,Cancelled,Address 79,New York,TX,56163
+488,8,2025-06-12 08:44:02,154.53,Cancelled,Address 41,Los Angeles,CA,96118
+489,36,2024-11-21 08:44:02,333.25,Completed,Address 33,Houston,CA,39885
+490,45,2025-08-01 08:44:02,153.81,Cancelled,Address 2,New York,NY,92918
+491,35,2025-02-16 08:44:02,250.98,Pending,Address 91,Phoenix,IL,66891
+492,27,2025-03-03 08:44:02,880.31,Completed,Address 59,Los Angeles,CA,61705
+493,50,2025-06-25 08:44:02,348.17,Completed,Address 12,Chicago,AZ,19890
+494,92,2025-07-22 08:44:02,490.73,Pending,Address 3,New York,TX,96798
+495,89,2025-04-05 08:44:02,830.3,Completed,Address 54,New York,IL,55811
+496,43,2024-09-04 08:44:02,824.13,Completed,Address 57,Houston,TX,83570
+497,8,2025-06-16 08:44:02,825.72,Cancelled,Address 82,Phoenix,CA,62609
+498,94,2024-08-20 08:44:02,769.06,Pending,Address 99,Houston,NY,64000
+499,33,2024-12-05 08:44:02,338.73,Pending,Address 50,Chicago,NY,20803
+500,38,2024-08-08 08:44:02,751.8,Pending,Address 13,Houston,IL,25838

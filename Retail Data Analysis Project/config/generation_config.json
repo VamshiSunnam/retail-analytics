@@ -1,0 +1,6 @@
+{
+  "num_customers": 1000,
+  "num_orders": 5000,
+  "start_date": "2023-01-01",
+  "end_date": "2024-11-30"
+}

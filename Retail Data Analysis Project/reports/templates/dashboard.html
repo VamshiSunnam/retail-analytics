@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0056b3;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .chart-container {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .chart-container img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>{{ title }}</h1>
+
+        <h2>Monthly Sales Trends</h2>
+        <div class="chart-container">
+            <img src="data:image/png;base64,{{ monthly_sales_chart }}" alt="Monthly Sales Trends Chart">
+        </div>
+        <h3>Monthly Sales Data</h3>
+        {{ monthly_sales_table | safe }}
+
+        <h2>Top Selling Products</h2>
+        <div class="chart-container">
+            <img src="data:image/png;base64,{{ top_products_chart }}" alt="Top Selling Products Chart">
+        </div>
+        <h3>Top Products Data</h3>
+        {{ top_products_table | safe }}
+
+        <h2>Customer Lifetime Value (Top 20)</h2>
+        <div class="chart-container">
+            <img src="data:image/png;base64,{{ customer_ltv_chart }}" alt="Customer Lifetime Value Chart">
+        </div>
+        <h3>Customer LTV Data</h3>
+        {{ customer_ltv_table | safe }}
+
+        <h2>RFM Customer Segmentation</h2>
+        <div class="chart-container">
+            <img src="data:image/png;base64,{{ rfm_chart }}" alt="RFM Customer Segmentation Chart">
+        </div>
+        <h3>RFM Data (Top 20 Customers)</h3>
+        {{ rfm_table | safe }}
+
+    </div>
+</body>
+</html>

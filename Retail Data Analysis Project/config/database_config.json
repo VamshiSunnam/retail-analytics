@@ -1,0 +1,26 @@
+{
+  "development": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "retail_analytics_dev",
+    "user": "dev_user",
+    "password": "dev_password",
+    "driver": "mysql"
+  },
+  "production": {
+    "host": "your-prod-server.com",
+    "port": 3306,
+    "database": "retail_analytics",
+    "user": "prod_user",
+    "password": "${DB_PASSWORD}",
+    "driver": "mysql"
+  },
+  "test": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "retail_test",
+    "user": "test_user",
+    "password": "test_password",
+    "driver": "postgresql"
+  }
+}

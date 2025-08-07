@@ -1,0 +1,21 @@
+product_id,product_name,category_id,brand,unit_price,cost_price,current_stock,reorder_level
+1,iPhone 15 Pro,6,Apple,999.99,750.00,50,20
+2,Samsung Galaxy S24,6,Samsung,899.99,650.00,45,20
+3,Google Pixel 8,6,Google,799.99,550.00,30,15
+4,MacBook Pro 14,7,Apple,1999.99,1500.00,25,10
+5,Dell XPS 13,7,Dell,1299.99,950.00,30,10
+6,ThinkPad X1,7,Lenovo,1499.99,1100.00,20,8
+7,iPad Pro,8,Apple,1099.99,800.00,35,15
+8,Samsung Tab S9,8,Samsung,849.99,600.00,25,10
+9,Men's Cotton T-Shirt,9,Nike,29.99,15.00,200,50
+10,Men's Jeans,9,Levi's,79.99,40.00,150,40
+11,Men's Running Shoes,15,Adidas,89.99,45.00,100,30
+12,Women's Summer Dress,10,Zara,49.99,25.00,120,30
+13,Women's Handbag,10,Coach,299.99,150.00,40,10
+14,Kids' Sneakers,11,Nike,59.99,30.00,80,25
+15,Office Chair,12,Herman Miller,899.99,500.00,15,5
+16,Standing Desk,12,Uplift,699.99,400.00,20,5
+17,Coffee Maker,13,Keurig,129.99,70.00,60,20
+18,Air Fryer,13,Ninja,99.99,50.00,70,25
+19,Garden Hose,14,Craftsman,39.99,20.00,100,30
+20,Yoga Mat,15,Lululemon,68.00,30.00,90,25
